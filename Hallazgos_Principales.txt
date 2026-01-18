@@ -1,0 +1,38 @@
+================================================================================
+⚽ HALLAZGOS PRINCIPALES - ANÁLISIS FÚTBOL TOP 100
+================================================================================
+
+📊 RESUMEN EJECUTIVO:
+   • Total de jugadores analizados: 100
+   • Calificación promedio: 84.16/100
+   • Goles promedio por temporada: 12.26
+   • Jugadores categoría 'Leyenda': 21
+   • Jugadores activos: 27
+
+🏆 TOP 5 JUGADORES:
+   1. Lionel Messi - Rating: 99.2 - Goles: 821
+   2. Cristiano Ronaldo - Rating: 98.8 - Goles: 895
+   3. Pelé - Rating: 98.5 - Goles: 767
+   4. Diego Maradona - Rating: 98.2 - Goles: 346
+   5. Johan Cruyff - Rating: 97.8 - Goles: 291
+
+🔥 MÁXIMO GOLEADOR:
+   • Cristiano Ronaldo: 895 goles
+
+🥇 BALONES DE ORO:
+   • Lionel Messi: 8 Balón(es) de Oro
+   • Cristiano Ronaldo: 5 Balón(es) de Oro
+   • Johan Cruyff: 3 Balón(es) de Oro
+   • Michel Platini: 3 Balón(es) de Oro
+   • Marco van Basten: 3 Balón(es) de Oro
+
+🌍 CAMPEONES DEL MUNDO:
+   • Pelé: 3 Mundial(es)
+   • Ronaldo Nazário: 2 Mundial(es)
+   • Garrincha: 2 Mundial(es)
+   • Cafu: 2 Mundial(es)
+   • Lionel Messi: 1 Mundial(es)
+
+================================================================================
+Generado automáticamente por el análisis de Python
+================================================================================

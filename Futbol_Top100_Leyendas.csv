@@ -1,0 +1,101 @@
+﻿Jugador_ID,Nombre_Jugador,Posicion,Equipo_Principal,Confederacion,Año_Inicio,Año_Fin,Goles_Totales,Goles_Por_Temporada,Asistencias_Totales,Asistencias_Por_Temporada,Partidos_Jugados,Titulos_Liga,Champions_League,Balones_Oro,Mundiales,Calificacion_Jugador,Categoria_Rendimiento,Estado_Carrera
+1,Lionel Messi,Delantero,FC Barcelona,CONMEBOL,2004,2024,821,42.1,361,18.5,1069,12,4,8,1,99.2,Leyenda,Activo
+2,Cristiano Ronaldo,Delantero,Real Madrid,UEFA,2002,2024,895,44.8,255,12.8,1238,7,5,5,0,98.8,Leyenda,Activo
+3,Pelé,Delantero,Santos FC,CONMEBOL,1956,1977,767,36.5,321,15.3,831,6,0,0,3,98.5,Leyenda,Retirado
+4,Diego Maradona,Mediocampista,Napoli,CONMEBOL,1976,1997,346,16.5,214,10.2,680,2,0,1,1,98.2,Leyenda,Retirado
+5,Johan Cruyff,Delantero,Ajax,UEFA,1964,1984,291,14.6,178,8.9,514,9,3,3,0,97.8,Leyenda,Retirado
+6,Zinedine Zidane,Mediocampista,Real Madrid,UEFA,1988,2006,125,6.3,108,5.4,506,2,1,1,1,97.5,Leyenda,Retirado
+7,Ronaldo Nazário,Delantero,Real Madrid,CONMEBOL,1993,2011,414,23.0,128,7.1,518,2,0,2,2,97.2,Leyenda,Retirado
+8,Franz Beckenbauer,Defensa,Bayern Munich,UEFA,1964,1983,109,5.5,98,4.9,582,5,3,2,1,96.9,Leyenda,Retirado
+9,Alfredo Di Stéfano,Delantero,Real Madrid,CONMEBOL,1945,1966,377,18.9,168,8.4,521,8,5,2,0,96.6,Leyenda,Retirado
+10,Michel Platini,Mediocampista,Juventus,UEFA,1972,1987,353,17.7,142,7.1,652,2,1,3,0,96.3,Leyenda,Retirado
+11,Ronaldinho,Mediocampista,FC Barcelona,CONMEBOL,1998,2015,266,13.3,162,8.1,612,2,1,1,1,96.0,Leyenda,Retirado
+12,Lev Yashin,Portero,Dynamo Moscow,UEFA,1950,1970,0,0.0,0,0.0,326,5,0,1,0,95.7,Leyenda,Retirado
+13,Garrincha,Delantero,Botafogo,CONMEBOL,1953,1972,232,11.6,89,4.5,614,2,0,0,2,95.4,Leyenda,Retirado
+14,George Best,Delantero,Manchester United,UEFA,1963,1984,179,9.0,111,5.6,470,2,1,1,0,95.1,Leyenda,Retirado
+15,Gerd Müller,Delantero,Bayern Munich,UEFA,1963,1981,735,36.8,148,7.4,793,7,3,1,1,94.8,Leyenda,Retirado
+16,Paolo Maldini,Defensa,AC Milan,UEFA,1984,2009,33,1.3,48,1.9,902,7,5,0,0,94.5,Leyenda,Retirado
+17,Ferenc Puskás,Delantero,Real Madrid,UEFA,1943,1966,746,37.3,178,8.9,793,10,3,0,0,94.2,Leyenda,Retirado
+18,Eusébio,Delantero,Benfica,UEFA,1957,1979,733,36.7,198,9.9,715,11,1,1,0,93.9,Leyenda,Retirado
+19,Bobby Charlton,Mediocampista,Manchester United,UEFA,1956,1976,249,12.5,89,4.5,758,3,1,1,1,93.6,Leyenda,Retirado
+20,Marco van Basten,Delantero,AC Milan,UEFA,1981,1995,300,21.4,98,7.0,373,4,3,3,0,93.3,Leyenda,Retirado
+21,Kaká,Mediocampista,AC Milan,CONMEBOL,2001,2017,204,10.2,98,4.9,593,1,1,1,1,93.0,Leyenda,Retirado
+22,Thierry Henry,Delantero,Arsenal,UEFA,1994,2014,411,20.6,221,11.1,791,4,1,0,1,92.7,Excepcional,Retirado
+23,Xavi Hernández,Mediocampista,FC Barcelona,UEFA,1998,2019,85,4.3,185,8.9,767,8,4,0,1,92.4,Excepcional,Retirado
+24,Andrés Iniesta,Mediocampista,FC Barcelona,UEFA,2002,2023,57,2.7,139,6.6,674,9,4,0,1,92.1,Excepcional,Retirado
+25,Neymar Jr,Delantero,Paris Saint-Germain,CONMEBOL,2009,2024,436,29.1,241,16.1,710,6,1,0,0,91.8,Excepcional,Activo
+26,Luka Modrić,Mediocampista,Real Madrid,UEFA,2003,2024,113,5.7,145,7.3,788,5,5,1,0,91.5,Excepcional,Activo
+27,Robert Lewandowski,Delantero,Bayern Munich,UEFA,2006,2024,648,40.5,182,11.4,899,10,1,0,0,91.2,Excepcional,Activo
+28,Sergio Ramos,Defensa,Real Madrid,UEFA,2003,2023,110,5.5,41,2.1,832,5,4,0,1,90.9,Excepcional,Retirado
+29,Zlatan Ibrahimović,Delantero,Inter Milan,UEFA,1999,2023,573,25.4,215,9.5,956,13,0,0,0,90.6,Excepcional,Retirado
+30,Andrea Pirlo,Mediocampista,AC Milan,UEFA,1995,2017,70,3.2,145,6.6,756,6,2,0,1,90.3,Excepcional,Retirado
+31,Romário,Delantero,PSV Eindhoven,CONMEBOL,1985,2008,772,38.6,189,9.5,745,5,1,0,1,90.0,Excepcional,Retirado
+32,Rivaldo,Mediocampista,FC Barcelona,CONMEBOL,1991,2015,329,16.5,156,7.8,745,1,1,1,1,89.7,Excepcional,Retirado
+33,Lothar Matthäus,Mediocampista,Bayern Munich,UEFA,1979,2000,138,6.9,122,6.1,754,7,1,1,1,89.4,Excepcional,Retirado
+34,Roberto Baggio,Mediocampista,Juventus,UEFA,1982,2004,318,15.9,142,7.1,685,2,0,1,0,89.1,Excepcional,Retirado
+35,Fabio Cannavaro,Defensa,Real Madrid,UEFA,1992,2011,6,0.3,12,0.6,725,2,1,1,1,88.8,Excepcional,Retirado
+36,Cafu,Defensa,AS Roma,CONMEBOL,1988,2008,16,0.8,89,4.5,665,4,1,0,2,88.5,Excepcional,Retirado
+37,Roberto Carlos,Defensa,Real Madrid,CONMEBOL,1991,2012,113,5.7,98,4.9,1127,4,3,0,1,88.2,Excepcional,Retirado
+38,Dino Zoff,Portero,Juventus,UEFA,1961,1983,0,0.0,0,0.0,570,6,1,0,1,87.9,Excepcional,Retirado
+39,Franco Baresi,Defensa,AC Milan,UEFA,1977,1997,33,1.7,42,2.1,719,6,3,0,1,87.6,Excepcional,Retirado
+40,Luis Suárez,Delantero,FC Barcelona,CONMEBOL,2005,2024,578,30.4,276,14.5,878,5,1,0,0,87.3,Excepcional,Activo
+41,Karim Benzema,Delantero,Real Madrid,UEFA,2005,2024,552,27.6,233,11.7,888,5,5,1,0,87.0,Excepcional,Activo
+42,Kevin De Bruyne,Mediocampista,Manchester City,UEFA,2008,2024,123,8.2,198,13.2,682,5,1,0,0,86.7,Excepcional,Activo
+43,Manuel Neuer,Portero,Bayern Munich,UEFA,2003,2024,0,0.0,0,0.0,703,11,2,0,1,86.4,Excepcional,Activo
+44,Gianluigi Buffon,Portero,Juventus,UEFA,1995,2023,0,0.0,0,0.0,974,10,0,0,1,86.1,Excepcional,Retirado
+45,Iker Casillas,Portero,Real Madrid,UEFA,1999,2020,0,0.0,0,0.0,1055,5,3,0,1,85.8,Muy Bueno,Retirado
+46,Raúl González,Delantero,Real Madrid,UEFA,1994,2015,404,19.2,129,6.1,1004,6,3,0,0,85.5,Muy Bueno,Retirado
+47,Francesco Totti,Mediocampista,AS Roma,UEFA,1992,2017,307,12.3,206,8.2,786,5,0,0,1,85.2,Muy Bueno,Retirado
+48,David Beckham,Mediocampista,Manchester United,UEFA,1992,2013,129,6.5,228,11.4,718,6,1,0,0,84.9,Muy Bueno,Retirado
+49,Steven Gerrard,Mediocampista,Liverpool,UEFA,1998,2016,186,10.3,155,8.6,710,0,1,0,0,84.6,Muy Bueno,Retirado
+50,Frank Lampard,Mediocampista,Chelsea,UEFA,1995,2017,303,14.4,147,7.0,1106,3,1,0,0,84.3,Muy Bueno,Retirado
+51,Sergio Agüero,Delantero,Manchester City,CONMEBOL,2003,2021,427,23.7,132,7.3,786,5,0,0,0,84.0,Muy Bueno,Retirado
+52,Edinson Cavani,Delantero,Paris Saint-Germain,CONMEBOL,2005,2024,425,22.4,95,5.0,854,6,0,0,0,83.7,Muy Bueno,Activo
+53,Philipp Lahm,Defensa,Bayern Munich,UEFA,2002,2017,22,1.3,89,5.2,652,8,1,0,1,83.4,Muy Bueno,Retirado
+54,Carles Puyol,Defensa,FC Barcelona,UEFA,1999,2014,19,1.3,12,0.8,593,6,3,0,1,83.1,Muy Bueno,Retirado
+55,John Terry,Defensa,Chelsea,UEFA,1998,2018,67,3.3,23,1.1,717,5,1,0,0,82.8,Muy Bueno,Retirado
+56,Rio Ferdinand,Defensa,Manchester United,UEFA,1995,2015,17,0.9,23,1.2,758,6,1,0,0,82.5,Muy Bueno,Retirado
+57,Virgil van Dijk,Defensa,Liverpool,UEFA,2011,2024,42,3.8,14,1.3,479,1,1,0,0,82.2,Muy Bueno,Activo
+58,Kylian Mbappé,Delantero,Paris Saint-Germain,UEFA,2015,2024,308,34.2,127,14.1,378,6,0,0,1,81.9,Muy Bueno,Activo
+59,Erling Haaland,Delantero,Manchester City,UEFA,2016,2024,230,46.0,48,9.6,243,4,1,0,0,81.6,Muy Bueno,Activo
+60,Mohamed Salah,Delantero,Liverpool,UEFA,2010,2024,352,25.1,156,11.1,604,3,1,0,0,81.3,Muy Bueno,Activo
+61,Harry Kane,Delantero,Bayern Munich,UEFA,2009,2024,397,26.5,127,8.5,606,1,0,0,0,81.0,Muy Bueno,Activo
+62,Antoine Griezmann,Delantero,Atletico Madrid,UEFA,2009,2024,289,18.1,118,7.4,691,2,0,0,1,80.7,Muy Bueno,Activo
+63,Eden Hazard,Mediocampista,Chelsea,UEFA,2007,2023,176,10.4,162,9.5,708,2,1,0,0,80.4,Muy Bueno,Retirado
+64,Gareth Bale,Delantero,Real Madrid,UEFA,2006,2023,226,13.3,138,8.1,554,3,5,0,0,80.1,Muy Bueno,Retirado
+65,Arjen Robben,Delantero,Bayern Munich,UEFA,2000,2021,246,14.5,162,9.5,699,8,1,0,0,79.8,Muy Bueno,Retirado
+66,Franck Ribéry,Mediocampista,Bayern Munich,UEFA,2000,2022,186,9.3,211,10.6,725,9,1,0,0,79.5,Muy Bueno,Retirado
+67,Wesley Sneijder,Mediocampista,Inter Milan,UEFA,2002,2019,127,7.5,134,7.9,656,4,1,0,1,79.2,Muy Bueno,Retirado
+68,Didier Drogba,Delantero,Chelsea,UEFA,1998,2018,367,18.4,145,7.3,799,4,1,0,0,78.9,Muy Bueno,Retirado
+69,Samuel Eto'o,Delantero,FC Barcelona,CAF,1996,2019,431,21.6,98,4.9,718,3,3,0,0,78.6,Muy Bueno,Retirado
+70,Patrick Vieira,Mediocampista,Arsenal,UEFA,1993,2011,54,2.7,89,4.5,728,4,0,0,1,78.3,Muy Bueno,Retirado
+71,Roy Keane,Mediocampista,Manchester United,UEFA,1990,2006,72,3.6,67,3.4,728,7,1,0,0,78.0,Muy Bueno,Retirado
+72,Paul Scholes,Mediocampista,Manchester United,UEFA,1993,2013,155,7.8,89,4.5,718,11,2,0,0,77.7,Bueno,Retirado
+73,Clarence Seedorf,Mediocampista,AC Milan,UEFA,1992,2014,105,5.3,134,6.7,864,4,4,0,0,77.4,Bueno,Retirado
+74,Pavel Nedvěd,Mediocampista,Juventus,UEFA,1991,2009,155,8.2,118,6.2,673,3,1,1,0,77.1,Bueno,Retirado
+75,Michael Ballack,Mediocampista,Chelsea,UEFA,1995,2012,167,8.4,89,4.5,833,1,0,0,0,76.8,Bueno,Retirado
+76,Dennis Bergkamp,Delantero,Arsenal,UEFA,1986,2006,239,11.4,162,7.7,668,3,0,0,0,76.5,Bueno,Retirado
+77,Ruud van Nistelrooy,Delantero,Manchester United,UEFA,1993,2012,349,21.8,78,4.9,592,2,1,0,0,76.2,Bueno,Retirado
+77,Ryan Giggs,Mediocampista,Manchester United,UEFA,1990,2014,168,6.7,271,10.8,963,13,2,0,0,75.9,Bueno,Retirado
+79,Alan Shearer,Delantero,Newcastle United,UEFA,1988,2006,379,19.0,89,4.5,734,1,0,0,0,75.6,Bueno,Retirado
+80,Alessandro Del Piero,Delantero,Juventus,UEFA,1991,2014,346,16.5,201,9.6,705,8,1,0,1,75.3,Bueno,Retirado
+81,Michael Owen,Delantero,Liverpool,UEFA,1996,2013,222,12.3,67,3.7,483,1,0,1,0,75.0,Bueno,Retirado
+82,Javier Zanetti,Defensa,Inter Milan,UEFA,1993,2014,21,1.1,89,4.5,858,5,1,0,0,74.7,Bueno,Retirado
+83,Petr Čech,Portero,Chelsea,UEFA,1999,2019,0,0.0,0,0.0,803,4,1,0,0,74.4,Bueno,Retirado
+84,Edwin van der Sar,Portero,Manchester United,UEFA,1990,2011,0,0.0,0,0.0,792,4,1,0,0,74.1,Bueno,Retirado
+85,Ashley Cole,Defensa,Arsenal,UEFA,1999,2019,16,0.8,45,2.3,683,3,1,0,0,73.8,Bueno,Retirado
+86,Nemanja Vidić,Defensa,Manchester United,UEFA,2000,2016,21,1.8,12,1.0,459,5,1,0,0,73.5,Bueno,Retirado
+87,Gerard Piqué,Defensa,FC Barcelona,UEFA,2004,2022,53,2.8,23,1.2,616,8,3,0,1,73.2,Bueno,Retirado
+88,Toni Kroos,Mediocampista,Real Madrid,UEFA,2007,2024,80,5.0,178,11.1,809,5,5,0,1,72.9,Bueno,Activo
+89,Casemiro,Mediocampista,Real Madrid,CONMEBOL,2008,2024,67,4.8,56,4.0,648,5,5,0,0,72.6,Bueno,Activo
+90,N'Golo Kanté,Mediocampista,Chelsea,UEFA,2012,2024,31,3.4,34,3.8,485,5,1,0,1,72.3,Bueno,Activo
+91,Marcelo,Defensa,Real Madrid,CONMEBOL,2005,2024,38,2.2,103,5.9,759,6,5,0,0,72.0,Bueno,Activo
+92,Dani Alves,Defensa,FC Barcelona,CONMEBOL,2001,2023,58,2.8,134,6.4,1034,8,3,0,0,71.7,Bueno,Retirado
+93,Giorgio Chiellini,Defensa,Juventus,UEFA,2000,2023,36,1.8,12,0.6,770,9,0,0,1,71.4,Bueno,Retirado
+94,Leonardo Bonucci,Defensa,Juventus,UEFA,2005,2024,38,2.1,23,1.3,731,8,0,0,1,71.1,Bueno,Activo
+95,Thiago Silva,Defensa,Chelsea,CONMEBOL,2002,2024,34,1.7,12,0.6,842,5,1,0,0,70.8,Bueno,Activo
+96,Raphaël Varane,Defensa,Real Madrid,UEFA,2010,2024,25,1.9,8,0.6,561,4,4,0,1,70.5,Bueno,Activo
+97,Thibaut Courtois,Portero,Real Madrid,UEFA,2009,2024,0,0.0,0,0.0,590,2,2,0,0,70.2,Bueno,Activo
+98,Jan Oblak,Portero,Atletico Madrid,UEFA,2009,2024,0,0.0,0,0.0,523,1,0,0,0,69.9,Bueno,Activo
+99,Alisson Becker,Portero,Liverpool,CONMEBOL,2012,2024,0,0.0,0,0.0,448,2,1,0,0,69.6,Bueno,Activo
+100,Marc-André ter Stegen,Portero,FC Barcelona,UEFA,2009,2024,0,0.0,0,0.0,544,5,1,0,0,69.3,Bueno,Activo
